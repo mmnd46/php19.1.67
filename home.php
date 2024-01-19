@@ -13,7 +13,7 @@
 </head>
 
 <!-- ใส่รูปภาพพื้นหลัง -->
-<body background = bg1.JPG>
+<body background = "images\bg12.jpg">
     <div class="row">
         <div class="column">
             <div class="column-bottom">
