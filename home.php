@@ -19,7 +19,7 @@
             <div class="column-bottom">
 
                 <!-- ใส่ชื่อเว็บที่นี่ -->
-		<h1 style="font-size:95px">Welcome to my Homepage</h1>
+		<h1 style="font-size:95px">Welcome to my Website</h1>
             </div>
         </div>
 			
